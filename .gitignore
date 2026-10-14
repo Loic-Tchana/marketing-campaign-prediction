@@ -1,0 +1,13 @@
+# Environnement virtuel et caches Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Données brutes (à télécharger depuis Kaggle, voir data/README.md)
+data/*.csv
+
+# Système
+.DS_Store
+Thumbs.db
